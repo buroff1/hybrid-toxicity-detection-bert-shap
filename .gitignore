@@ -1,0 +1,29 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Datasets & models (do NOT push these)
+data/**
+!data/.gitkeep
+outputs/model/**
+*.pt
+*.bin
+*.ckpt
+*.h5

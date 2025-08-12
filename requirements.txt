@@ -1,0 +1,24 @@
+# Python 3.9 recommended
+
+# Core
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+matplotlib==3.8.4
+seaborn==0.13.2
+tqdm==4.66.4
+
+# PyTorch + Transformers
+torch==2.7.1
+transformers==4.40.2
+tokenizers==0.19.1
+safetensors==0.5.3
+
+# Hugging Face datasets pipeline
+datasets==3.6.0
+huggingface-hub==0.31.2
+pyarrow==20.0.0
+fsspec==2025.3.0
+
+# Explanations
+shap==0.44.1

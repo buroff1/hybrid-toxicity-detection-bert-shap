@@ -1,0 +1,2 @@
+total_samples,avg_comment_length,max_comment_length,toxicity_ratio,toxic_samples,non_toxic_samples
+1804874,297.2343049985761,1906,0.0799690172277954,144334,1660540
